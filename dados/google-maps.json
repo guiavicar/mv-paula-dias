@@ -1,0 +1,79 @@
+{
+  "fonte": "Google Maps — extraído em 2026-10-15",
+  "nome": "Clínica veterinária MV Paula Dias 24hrs",
+  "categoria": "Veterinário",
+  "telefone": "(61) 99223-1190",
+  "whatsapp": "5561992231190",
+  "endereco": {
+    "borough": "Samambaia",
+    "street": "QN 305",
+    "city": "Brasília",
+    "postal_code": "72305-200",
+    "state": "Distrito Federal",
+    "country": "BR"
+  },
+  "endereco_texto": "QN 305, Samambaia, Brasília - DF, 72305-200",
+  "plus_code": "4W83+XR Samambaia, Brasília - DF",
+  "latitude": -15.8825366,
+  "longitude": -48.0953932,
+  "place_id": "ChIJj_UABADTW5MR0VEVLtP9g9Y",
+  "cid": "15457477429518750161",
+  "link_maps": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20veterin%C3%A1ria%20MV%20Paula%20Dias%2024hrs&query_place_id=ChIJj_UABADTW5MR0VEVLtP9g9Y",
+  "horario": "Atendimento 24 horas, todos os dias",
+  "nota": 5.0,
+  "total_avaliacoes": 82,
+  "avaliacoes_por_nota": {
+    "5": 81,
+    "4": 0,
+    "3": 0,
+    "2": 0,
+    "1": 1
+  },
+  "temas_mais_citados": {
+    "doutora": 13,
+    "internação": 12,
+    "gatinhos": 9,
+    "olhos": 8,
+    "clínica": 6,
+    "segurança": 6,
+    "felv": 5,
+    "sucesso": 5,
+    "agradecimento": 5,
+    "vida": 5
+  },
+  "acessibilidade": [
+    "Estacionamento com acessibilidade para pessoas em cadeira de rodas"
+  ],
+  "avaliacoes": [
+    {
+      "nome": "Ana Victoria Souza",
+      "nota": 5,
+      "quando": "um mês atrás",
+      "texto": "Só tenho a agradecer à Dra. Paula e a toda a sua equipe pelo cuidado e carinho com a minha Nina.\nA Nina precisou passar por uma cirurgia e ficou internada durante um dia. Durante todo o processo, recebi informações, fotos e vídeos dela, o que me deixou muito mais tranquila e segura. O atendimento foi excelente, com muito cuidado, atenção e carinho. Sou muito grata por todo o suporte e cuidado que tiveram com ela.\n\nIndico demais a clínica e toda a equipe! ❤️"
+    },
+    {
+      "nome": "Juliana Cardoso",
+      "nota": 5,
+      "quando": "2 meses atrás",
+      "texto": "Já fiz alguns procedimentos. Cirurgia de gato e cachorro: simplesmente maravilhoso. Foram extremamente cuidadosos. A Dr. Paula é muito criteriosa e cuidadosa, sempre certificando de que está tudo certo entre os animais e funcionários.\nInternação felina: Em todo momento eu recebi fotos, vídeos e notícias. Isso foi muito importante pois me deixou muito mais tranquila!! Também visitei a área de internação, conferi todos os outros pacientes. Estavam todos calmos, sempre limpos e acolhidos. Duas gatinhas resgatadas estavam lá, também limpas, aquecidas e ativas."
+    },
+    {
+      "nome": "Jonathan Silva",
+      "nota": 5,
+      "quando": "2 meses atrás",
+      "texto": "Venho aqui expressar minha sincera gratidão à clínica pelos cuidados e pelo carinho com a minha cachorra, Pandora.\nChegamos de madrugada com ela intoxicada e fomos muito bem atendidos pela Dra. Sandy, que prestou um atendimento excelente, com muito cuidado e atenção.\nSuper indico a clínica e, mais uma vez, agradeço de coração por todo o cuidado e dedicação que tiveram com a vida da minha Pandora. ❤️🐕🐶"
+    },
+    {
+      "nome": "GAPS da saúde",
+      "nota": 5,
+      "quando": "4 meses atrás",
+      "texto": "O estacionamento é amplo.\nA Dra Paula também já atendeu meu pet em casa, então vale a pena explicar o caso... do \"Remela\" e da \"Véia\" foi vacina."
+    },
+    {
+      "nome": "Elias",
+      "nota": 5,
+      "quando": "3 meses atrás",
+      "texto": "Dr Wil e dra Paula atenderam bem!\nFomos recepcionados pelo dr Jorge.\n\nClínica bastante movimentada. Já levamos pet's para castração, consulta e internação.\nA Vacinação foi feita pela equipe na minha residência para maior cuidado / conforto dos gatinhos.\n\nAh mais de 3 anos sob os cuidados da dra Paula Dias."
+    }
+  ]
+}
